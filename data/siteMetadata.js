@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Tryout Blog',
+  title:'Next Please',
   author: 'Xun Ding',
-  headerTitle: 'Who still blogs?',
+  headerTitle: 'Next Please! Really, who still blogs?',
   description: 'A blog of restlessness',
   language: 'en-us',
   theme: 'system', // system, dark or light
