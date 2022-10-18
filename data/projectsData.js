@@ -1,19 +1,21 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
+    title: 'Sorry I work all day',
+    description: `You can check with my bosses about the things I do`,
+    imgSrc: '/static/images/busy.jpg',
+    href: 'https://www.hearst.com',
+  },
+  {
+    title: 'Next Js Playground',
+    description: `Some next.js test code`,
+    imgSrc: '/static/images/nextjspg.svg',
     href: 'https://www.google.com',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
+    title: 'Generative Art',
+    description: `Some computer doodles`,
     imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    href: 'https://furor-of-may.vercel.app/',
   },
 ]
 
