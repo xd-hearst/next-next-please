@@ -9,7 +9,7 @@ const projectsData = [
     title: 'Next Js Playground',
     description: `Some next.js test code`,
     imgSrc: '/static/images/nextjspg.svg',
-    href: 'https://www.google.com',
+    href: 'https://nextjs-playground-cyan-chi.vercel.app/',
   },
   {
     title: 'Generative Art',
